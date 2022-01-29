@@ -8,7 +8,7 @@
 I'm a Computer Engineering student at the University of Waterloo | Intern @ Electronic Arts (EA) | Prev. Intern @ Sun Life, BMO
 - 😄 Here's where I keep all the cool stuff I work on 
 - 🔭 Currently working on... getting a summer internship 🙃
-- 🥅 2022 Goal:  Contribute more to Open Source projects and be active on GitHub
+- 🥅 2022 Goal: Contribute to Open Source projects and be active on GitHub
 - ⚡ Fun fact: I can solve the Rubik's Cube in under 30 seconds
 - 📫 Checkout my [website](https://sovanp.github.io/) to learn more about me
 
