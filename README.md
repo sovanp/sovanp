@@ -1,4 +1,16 @@
-### Hi there 👋
+# Sovan Patnayak 👨‍💻
+
+[![Linkedin Badge](https://img.shields.io/badge/-sovanp-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sovan-patnayak/)](https://www.linkedin.com/in/sovan-patnayak/)
+[![Gmail Badge](https://img.shields.io/badge/-spatnayak@uwaterloo.ca-orange?style=flat&logo=mail.ru&logoColor=white&link=mailto:spatnaya@uwaterloo.ca)](mailto:spatnaya@uwaterloo.ca)
+[![Website Badge](https://img.shields.io/badge/-sovanp.github.io-blueviolet?style=flat&logo=safari&logoColor=white&link=https://sovanp.github.io/)](https://sovanp.github.io/)
+
+## Hey there 👋<img align="right" style="margin:110px 15px" src="https://github-readme-stats.vercel.app/api?username=sovanp&count_private=true&show_icons=true&include_all_commits=true&theme=algolia&hide_rank=true">
+I'm a Computer Engineering student at the University of Waterloo | Intern @ Electronic Arts (EA) | Prev. Intern @ Sun Life, BMO
+- 😄 Here's where I keep all the cool stuff I work on 
+- 🔭 Currently working on... getting a summer internship 🙃
+- 🥅 2022 Goal:  Contribute more to Open Source projects and be active on GitHub
+- ⚡ Fun fact: I can solve the Rubik's Cube in under 30 seconds
+- 📫 Checkout my [website](https://sovanp.github.io/) to learn more about me
 
 <!--
 **sovanp/sovanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
