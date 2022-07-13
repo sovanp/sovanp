@@ -7,7 +7,7 @@
 ## Hey there 👋<img align="right" style="margin:110px 15px" src="https://github-readme-stats.vercel.app/api?username=sovanp&count_private=true&show_icons=true&include_all_commits=true&theme=algolia&hide_rank=true">
 Computer Engineering @ University of Waterloo | SWE Intern @ PlaceHolder | Prev. Intern @ Electronic Arts (EA), Sun Life, BMO
 - 😄 Here's where I keep all the cool stuff I work on 
-- 🔭 Currently working on... learning Go adn TypeScript 🙃
+- 🔭 Currently working on... learning Go and TypeScript 
 - 🥅 2022 Goal: Contribute to Open Source projects and be active on GitHub
 - ⚡ Fun fact: I can solve the Rubik's Cube in under 30 seconds
 - 📫 Checkout my [website](https://sovanp.github.io/) to learn more about me
