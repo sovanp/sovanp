@@ -5,10 +5,10 @@
 [![Website Badge](https://img.shields.io/badge/-sovanp.github.io-blueviolet?style=flat&logo=safari&logoColor=white&link=https://sovanp.github.io/)](https://sovanp.github.io/)
 
 ## Hey there 👋<img align="right" style="margin:110px 15px" src="https://github-readme-stats.vercel.app/api?username=sovanp&count_private=true&show_icons=true&include_all_commits=true&theme=algolia&hide_rank=true">
-Computer Engineering @ University of Waterloo | SWE Intern @ Hatch | Prev. Intern @ Placeholder, Electronic Arts (EA), Sun Life, BMO
+Computer Engineering @ University of Waterloo | API Software Engineer @ Sun Life | Prev. Intern @ Electronic Arts (EA), Hatch, Placeholder, BMO
 - 😄 Here's where I keep all the cool stuff I work on 
-- 🔭 Currently working on... learning Go and TypeScript 
-- 🥅 2022 Goal: Contribute to Open Source projects and be active on GitHub
+- 🔭 Currently working on... learning API microservices
+- 🥅 2025 Goal: Contribute to Open Source projects and be active on GitHub
 - ⚡ Fun fact: I can solve the Rubik's Cube in under 30 seconds
 - 📫 Checkout my [website](https://sovanp.github.io/) to learn more about me
 
